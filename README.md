@@ -9,7 +9,7 @@ The dual VR task was inspired by a well-established cancelation task, the Toulou
 
 ![tptvr1.png](http://i.imgur.com/WW72x4n.png)
 
-## References: ##
+## Publications: ##
 * **A Vourvopoulos**, A L Faria, M S Cameirão, S Bermúdez i Badia (2014)  Quantifying Cognitive-Motor Interference in Virtual Reality Training after Stroke : the Role of Interfaces In: 10th Intl Conf. Disability, Virtual Reality & Associated Technologies, At Gothenburg, Sweden. 
 
 * A L Faria, **A Vourvopoulos**, M S Cameirão, S Bermúdez i Badia (2014)  An integrative virtual reality cognitive-motor intervention approach in stroke rehabilitation : a pilot study In: 10th Intl Conf. Disability, Virtual Reality & Associated Technologies, At Gothenburg, Sweden.
